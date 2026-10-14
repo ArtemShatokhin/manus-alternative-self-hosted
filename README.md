@@ -48,3 +48,7 @@ Facts about Manus come from its own site (checked October 2026). For the wider o
 Kortix is open source. You can read it, fork it, and audit it. The repository is here: [Kortix on GitHub](https://github.com/kortix-ai/suna). It holds 20,000+ GitHub stars (checked October 2026).
 
 Free to start, and free to self-host. [Try Kortix](https://kortix.com).
+
+## The site this repository supports
+
+The deployment guide here pairs with [manus-alternative.com/self-host](https://manus-alternative.com/self-host). For the two other team decisions, see [the free, open-source alternative](https://manus-alternative.com/free-manus-alternative) and [Manus for teams](https://manus-alternative.com/manus-for-teams).
